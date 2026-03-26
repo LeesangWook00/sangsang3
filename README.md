@@ -6,6 +6,29 @@
 단순히 툴을 사용하는 것을 넘어, 데이터의 흐름과 인프라의 구조를 깊이 있게 파고드는 것을 즐깁니다.
 
 ---
+## 🛠️ Tech Stacks
+
+### **Core Skills (MSP 직무 관련)**
+* **Cloud:** AWS (EC2, S3, VPC, IAM 기초 실습 및 아키텍처 이해)
+* **Linux:** 리눅스 기본 명령어 활용 및 서버 환경에 대한 이해
+* **Infrastructure:** 컴퓨터 구조, 네트워크 프로그래밍 교과 이수를 통한 탄탄한 기초 지식
+
+### **Programming & Data**
+* **Languages:** Python (기계학습 및 데이터 분석), Java (자료구조 구현), SQL (Oracle DB 설계 및 쿼리)
+* **AI/Data:** Machine Learning (Scikit-learn 기초), Data Visualization
+
+---
+
+## 📚 Core Competencies (주요 역량)
+
+| 구분 | 상세 내용 | 관련 교과목 |
+| :--- | :--- | :--- |
+| **Cloud Infrastructure** | AWS EC2, S3 등 핵심 서비스 인스턴스 생성 및 보안 그룹 설정 실습 경험 | 클라우드서비스 |
+| **System & Network** | 리눅스 서버 환경 이해 및 네트워크 프로그래밍을 통한 소켓 통신 기초 구현 | 리눅스실습, 네트워크프로그래밍 |
+| **AI & Data Analysis** | Python 기반 머신러닝 라이브러리 활용, 데이터 전처리 및 모델링 기초 프로젝트 수행 | 기계학습(1,2), 파이썬프로그래밍(1,2) |
+| **Database** | 관계형 DB 설계(ERD) 및 복잡한 SQL 쿼리문 작성, 웹 애플리케이션 연동 경험 | 데이터베이스기초/프로그래밍 |
+
+---
 
 ## 🛠️ Expertise & Experience
 
